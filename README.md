@@ -1,9 +1,5 @@
 # ShoppingCart
-ShoppingCart is a E-Commerce Based web Application. which is developed in Spring Hibernate Framework.
-It has login page using JWT Auth.
-Noraml person and admin can ascces their acess areas.
-Admin can aslo add Products along with different categories.
-It has many more functionalities which is necessory for E-commerce Based Apllication. You can check it.
+ShoppingCart is an E-Commerce Based web Application. which is developed in Spring Hibernate Framework. It has a login page using JWT Auth. Normal person and admin can access their access areas. Admin can also add Products along with different categories. It has many more functionalities which are necessary for E-commerce Based Applications. You can check it.
 ![Screenshot (197)](https://user-images.githubusercontent.com/67219499/189279171-9c78c58c-b4f0-4e6e-a399-d7a19001cf7c.png)
 ![Screenshot (198)](https://user-images.githubusercontent.com/67219499/189279193-d572833c-848d-4898-b018-76bb3bce6bcc.png)
 ![Screenshot (199)](https://user-images.githubusercontent.com/67219499/189279206-f2491bf4-ece5-4b71-911c-fad2c31b48d0.png)
